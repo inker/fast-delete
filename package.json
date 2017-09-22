@@ -1,0 +1,28 @@
+{
+  "name": "fast-delete",
+  "version": "1.0.0",
+  "description": "promisified setTimeout",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "rm -rf lib && tsc",
+    "build-publish": "sh build/publish.sh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/inker/fast-delete"
+  },
+  "keywords": [
+    "blurry",
+    "chrome",
+    "translate3d",
+    "text",
+    "webkit"
+  ],
+  "author": "Anton Veselyev",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^2.5.2"
+  }
+}
