@@ -1,6 +1,6 @@
 {
   "name": "fast-delete",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "promisified setTimeout",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
@@ -14,11 +14,10 @@
     "url": "https://github.com/inker/fast-delete"
   },
   "keywords": [
-    "blurry",
-    "chrome",
-    "translate3d",
-    "text",
-    "webkit"
+    "fast",
+    "delete",
+    "remove",
+    "array"
   ],
   "author": "Anton Veselyev",
   "license": "ISC",
